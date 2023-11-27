@@ -44,7 +44,7 @@
 ## Links to source code and live site:
 
 - [Live site hosted on Netlify](https://cute-buddy.netlify.app/)
-- [Source code on Github](https://github.com/-1codingguy/typescript-e-commerce)
+- [Source code on Github](https://github.com/awesomedev08/sanity-eCommerce)
 - [GraphQL playground for CMS data hosted on Sanity](https://bqk6gkzk.api.sanity.io/v1/graphql/production/default)
 
 ## How to navigate this project? Click on the link for related source code:
